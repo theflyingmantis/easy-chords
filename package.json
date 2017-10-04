@@ -1,0 +1,34 @@
+{
+  "name": "easy-chords",
+  "version": "1.0.0",
+  "description": "Change the chords to easy chords with capo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "easy_chords",
+    "chords",
+    "guitar",
+    "hapi",
+    "node"
+  ],
+  "author": "abhinav_rai",
+  "license": "ISC",
+  "dependencies": {
+    "good": "^7.3.0",
+    "good-console": "^6.4.0",
+    "good-squeeze": "^5.0.2",
+    "handlebars": "^4.0.10",
+    "hapi": "^16.6.2",
+    "inert": "^4.2.1",
+    "install": "^0.10.1",
+    "nodemon": "^1.12.1",
+    "npm": "^5.4.2",
+    "vision": "^4.1.1"
+  },
+  "devDependencies": {
+    "prettier": "1.7.4"
+  }
+}
